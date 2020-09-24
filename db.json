@@ -70,41 +70,6 @@
          "employee_salary":"103600",
          "employee_age":"23",
          "profile_image":""
-      },
-      {
-         "id":"11",
-         "employee_name":"Jena Gaines",
-         "employee_salary":"90560",
-         "employee_age":"30",
-         "profile_image":""
-      },
-      {
-         "id":"12",
-         "employee_name":"Quinn Flynn",
-         "employee_salary":"342000",
-         "employee_age":"22",
-         "profile_image":""
-      },
-      {
-         "id":"13",
-         "employee_name":"Charde Marshall",
-         "employee_salary":"470600",
-         "employee_age":"36",
-         "profile_image":""
-      },
-      {
-         "id":"14",
-         "employee_name":"Haley Kennedy",
-         "employee_salary":"313500",
-         "employee_age":"43",
-         "profile_image":""
-      },
-      {
-         "id":"15",
-         "employee_name":"Tatyana Fitzpatrick",
-         "employee_salary":"385750",
-         "employee_age":"19",
-         "profile_image":""
       }
    ]
 }
